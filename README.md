@@ -26,7 +26,7 @@ This application is a fitness tracker. It tracks a user's workouts using a Mongo
 </ol>
 
 ## Usage
-To use this project visit: https://morning-tor-15408.herokuapp.com/stats
+To use this project visit: https://morning-tor-15408.herokuapp.com/
 
 ## License
 This repository has a MIT license. For more information on this license, please visit: https://choosealicense.com/licenses/mit     
