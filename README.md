@@ -19,7 +19,7 @@ This application is a fitness tracker. It tracks a user's workouts using a Mongo
 
 ## Installation
 <ol>
-<li>Clone the repository: "git@github.com:aubrey-heim/employee-tracker.git"</li>
+<li>Clone the repository: "git@github.com:aubrey-heim/workout-tracker.git"</li>
 <li>Install the dependencies using “npm i” in the terminal</li>
 <li>Seed your database using "npm run seed"</li>
 <li>Start the application using "npm start"</li>
